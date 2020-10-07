@@ -12,4 +12,8 @@ Il notebook è così suddiviso:
 - Feature Extraction
 - Modeling
 
+L'implementazione, segue la seguente architettura: 
+
+![Cattura](https://user-images.githubusercontent.com/49710127/95363253-80609d80-08cf-11eb-8502-8cf6e1305c23.PNG)
+
 Le slide del progetto sono disponibili al link: https://prezi.com/view/oIMCafk4utNObWK9pTZs/
